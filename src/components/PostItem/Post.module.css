@@ -1,0 +1,13 @@
+.Post {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid green;
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.PostBtns {
+  display: flex;
+}
